@@ -110,15 +110,3 @@ Formato fechas: Se usa ISO-8601 para consistencia
 Validaciones: Se comprueba que existan precios para los parámetros dados
 
 Testing: Cubre 100% de los casos requeridos más casos adicionales
-
-
-### Mejoras realizadas:
-1. Enfatiza que es una solución a la prueba técnica específica
-2. Destaca explícitamente el cumplimiento de requisitos
-3. Muestra claramente los 5 casos de prueba requeridos
-4. Simplifica la estructura mostrando solo lo relevante para el ejercicio
-5. Incluye decisiones técnicas clave
-6. Muestra el formato exacto de respuesta esperado
-7. Mantiene información técnica relevante (H2, ejecución)
-
-El README ahora está más enfocado en demostrar el cumplimiento exacto de la prueba técnica.
